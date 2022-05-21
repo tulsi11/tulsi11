@@ -24,5 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/tulsi-chopade-5887861b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulsi-chopade-5887861b6" height="30" width="40" /></a><a href="https://github.com/tulsi11" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="https://github.com/tulsi11" height="30" width="80" /></a> <a href="https://instagram.com/tulsichopade.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tulsichopade.11" height="30" width="40" /></a>
 </p>
+<br/>
 <h3 align="left">Github Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tulsi11&show_icons=true&locale=en" alt="srushtipatil25" /></p>
